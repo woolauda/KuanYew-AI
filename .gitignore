@@ -1,0 +1,11 @@
+.data/
+.test-data/
+.openai/
+node_modules/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.log
+site-archive.tar
+dist/work-future.png
+dist/work-portrait.png

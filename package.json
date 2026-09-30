@@ -1,0 +1,13 @@
+{
+  "name": "kuanyew-ai-preview",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test:api": "node test-api.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
